@@ -1,6 +1,13 @@
 # TW_MARKDOWN2
 TW_MARKDOWN2
 
+## 이미지 넣기
+
+
+## 강조
+굵게 표시 : **오늘은 즐거운 금요일**  
+굵게 표시 : __오늘은 즐거운 금요일__
+
 ## 하이퍼링크
 [pcwk](http://cafe.daum.net/pcwk)
 
