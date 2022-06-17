@@ -2,7 +2,7 @@
 TW_MARKDOWN2
 
 ## 이미지 넣기
-
+![배고파](https://github.com/T2us/TW_MARKDOWN2/blob/main/f5cf314c3fe0aaa14412dfada8a2c34e.gif)  
 
 ## 강조
 굵게 표시 : **오늘은 즐거운 금요일**  
