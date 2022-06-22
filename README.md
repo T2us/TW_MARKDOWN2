@@ -2,7 +2,7 @@
 TW_MARKDOWN2
 
 ## TEST tool stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T2us&layout=compact)](https://github.com/hykim-king/TEAMDMC)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T2us/TEAMDMC&layout=compact)](https://github.com/hykim-king/TEAMDMC)    
 
 ## 이미지 넣기
 ![배고파](https://github.com/T2us/TW_MARKDOWN2/blob/main/f5cf314c3fe0aaa14412dfada8a2c34e.gif)  
